@@ -37,4 +37,9 @@ Al igual que en el log se pudo visualizar la extracción de los metadatos.
 ![Log](img/Log-ok.png)
 
 
+Se anexa diagrama de flujo
+
+![Diagrama](img/Reto1-DF.png)
+
+
 
